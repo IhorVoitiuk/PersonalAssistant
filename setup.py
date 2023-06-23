@@ -4,7 +4,7 @@ setup(
     name='Personal Assistant',
     version='0.0.1',
     description='Consol scripts',
-    url='https://github.com/IhorVoitiuk/PersonalAssistant',
+    url='https://github.com/ihor-vt/PersonalAssistant',
     author= 'Ihor Voitiuk, Anastasiia Ivanytska, Arsen Badia',
     author_email='flyingcircus@example.com',
     license='MIT',
